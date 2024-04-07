@@ -1,0 +1,44 @@
+Name: Ritu Pravakar
+USC ID: 5857424113
+News site crawled: nytimes.com
+Number of threads: 100
+[ I used scrapy for crawling where number of concurrent items processed in parallel per response defaulted to 100 ]
+
+
+Fetch Statistics
+================
+# fetches attempted: 20,000
+# fetches succeeded: 19417
+# fetches failed or aborted: 583
+
+Outgoing URLs:
+==============
+Total URLs extracted: 525640
+# unique URLs extracted: 525640
+# unique URLs within News Site: 116653
+# unique URLs outside News Site: 408987
+
+Status Codes:
+=============
+200 OK: 384
+301 Moved Permanently: 2
+302 : 14934
+400 : 0
+403 Forbidden: 19612
+404 Not Found: 0
+
+File Sizes:
+===========
+< 1KB: 19415
+1KB ~ <10KB: 0
+10KB ~ <100KB: 1
+100KB ~ <1MB: 1
+>= 1MB: 0
+
+Content Types:
+==============
+text/html: 19417
+image/gif: 0
+image/jpeg: 0
+image/png: 0
+application/pdf: 0
