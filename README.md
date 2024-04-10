@@ -12,20 +12,14 @@ HW4 - 10/10
 
 #### Exam 
 
-Midterm Exam
+Midterm Exam - 20.5 / 25
 
-20.5 / 25
-
-Final Exam
-
-22.5 / 25
+Final Exam - 22.5 / 25
 
 
 #### Final Calculated Grade
 
-Weight Achieved
-	
-83 / 90
+Weight Achieved - 83 / 90
 		
 Grade
 	
